@@ -5,7 +5,13 @@
 // "Dermatoglyphics" --> true "aba" --> false "moOse" --> false (ignore letter case)
 
 function isIsogram(str){
+
     
+    // another option thats a oneliner can be the following but this will always go through the entire str
+    
+    // return  str === "" ? true : new Set(str.toUpperCase()).size == str.length;
+
+
     let letterSet = new Set()
     const lowercaseStr = str.toLowerCase()
     const strLength = lowercaseStr.length
@@ -16,9 +22,6 @@ function isIsogram(str){
     
     // Iterate over the string and push items to set
     for(let i=0;i<strLength;i++){
-
-        // convert to lowercase
-
 
         // check if letter is in Set 
         if(letterSet.has(lowercaseStr[i])){ 
