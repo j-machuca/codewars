@@ -9,11 +9,10 @@ Example:
 */
 
 function solution(str) {
-  let strArr = str.split("");
   let charPair = [];
 
-  for (let i = 0; i < strArr.length; i += 2) {
-    charPair.push(`${strArr[i]}${i + 1 < strArr.length ? strArr[i + 1] : "_"}`);
+  for (let i = 0; i < str.length; i += 2) {
+    charPair.push(`${str[i]}${i + 1 < str.length ? str[i + 1] : "_"}`);
   }
   return charPair;
 }
