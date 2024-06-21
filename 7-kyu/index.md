@@ -9,3 +9,4 @@
 5. [Doggy Daycare](https://www.codewars.com/kata/56951add53eccacf44000030/train/javascript) - doggyDaycare.js
 6. [Thinkful - Object Drills:Quarks](https://www.codewars.com/kata/5882b052bdeafec15e0000e6/train/javascript) - objectDrillsQuarks.js
 7. [Remove All The Marked Elements of a List](https://www.codewars.com/kata/563089b9b7be03472d00002b/train/javascript) - removeElementsFromList.js
+8. [Tidy Number (Special Numbers Series #9)](https://www.codewars.com/kata/5a87449ab1710171300000fd/train/javascript) - tidyNumber.js
