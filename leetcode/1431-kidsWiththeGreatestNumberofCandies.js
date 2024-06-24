@@ -35,6 +35,7 @@
 //     2 <= n <= 100
 //     1 <= candies[i] <= 100
 //     1 <= extraCandies <= 50
+
 var kidsWithCandies = function (candies, extraCandies) {
   // store the maximum value in the array here
   let max = 0;
@@ -54,5 +55,3 @@ var kidsWithCandies = function (candies, extraCandies) {
 
   return result;
 };
-
-console.log(kidsWithCandies([2, 3, 5, 1, 3], 3));
