@@ -6,6 +6,8 @@
 # Leetcode 75
 
 1. [Merge String Alternatively](https://leetcode.com/problems/merge-strings-alternately/description) -> [mergeStringsAlternatively.js](1768-mergeStringsAlternatively.js)
+2. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) -> [Solution](354-reverseVowelsOfAString.js)
+3. [Kids With The Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) -> [Solution](1431-kidsWiththeGreatestNumberofCandies.js)
 
 # Random Problems
 
