@@ -6,6 +6,7 @@
 # Leetcode 75
 
 [354 - Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) -> [Solution](354-reverseVowelsOfAString.js)
+[605 - Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description) -> [Solution](605.canPlaceFlowers.js)
 [1431 - Kids With The Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) -> [Solution](1431-kidsWiththeGreatestNumberofCandies.js)
 [1768 - Merge String Alternatively](https://leetcode.com/problems/merge-strings-alternately/description) -> [mergeStringsAlternatively.js](1768-mergeStringsAlternatively.js)
 
