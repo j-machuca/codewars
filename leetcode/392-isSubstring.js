@@ -33,3 +33,14 @@ var isSubsequenceWhile = function (s, t) {
 
   return s.length === sI;
 };
+
+var isSubsequenceForOf = function (s, t) {
+  let sI = 0;
+
+  for (let c of t) {
+    if (s[sI] === c) {
+      sI++;
+    }
+  }
+  return sI === s.length;
+};
