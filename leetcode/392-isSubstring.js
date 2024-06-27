@@ -37,7 +37,7 @@ var isSubsequenceWhile = function (s, t) {
 var isSubsequenceForOf = function (s, t) {
   let sI = 0;
 
-  for (let c of t) {
+  for (const c of t) {
     if (s[sI] === c) {
       sI++;
     }
