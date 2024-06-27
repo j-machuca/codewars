@@ -7,6 +7,7 @@
 
 [283 - Move Zeroes](https://leetcode.com/problems/move-zeroes/) -> [Solution](283-moveZeroes.js)
 [354 - Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) -> [Solution](354-reverseVowelsOfAString.js)
+[392 - Is Substring](https://leetcode.com/problems/is-subsequence/description/) -> [Solution](392-isSubstring.js)
 [605 - Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description) -> [Solution](605.canPlaceFlowers.js)
 [1431 - Kids With The Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) -> [Solution](1431-kidsWiththeGreatestNumberofCandies.js)
 [1768 - Merge String Alternatively](https://leetcode.com/problems/merge-strings-alternately/description) -> [mergeStringsAlternatively.js](1768-mergeStringsAlternatively.js)
