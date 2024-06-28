@@ -10,6 +10,7 @@
 [392 - Is Substring](https://leetcode.com/problems/is-subsequence/description/) -> [Solution](392-isSubstring.js)
 [605 - Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description) -> [Solution](605.canPlaceFlowers.js)
 [1431 - Kids With The Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) -> [Solution](1431-kidsWiththeGreatestNumberofCandies.js)
+[1732 - Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) -> [JS Solution](1732-findTheHighestAltitude.js)
 [1768 - Merge String Alternatively](https://leetcode.com/problems/merge-strings-alternately/description) -> [mergeStringsAlternatively.js](1768-mergeStringsAlternatively.js)
 
 # Random Problems
