@@ -1,6 +1,6 @@
 # List of solutions
 
-[1 - Two sum](https://leetcode.com/problems/two-sum/description/) -> [Solution](1-twoSum.js)
+[1 - Two sum](https://leetcode.com/problems/two-sum/description/) -> [JS Solution](1-twoSum.js) [Python Solution](1-twoSum.py)
 [242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/) -> [Solution](242-validAnagram.js)
 
 # Leetcode 75
