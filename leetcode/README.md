@@ -5,6 +5,7 @@
 
 # Leetcode 75
 
+[151 - Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) -> [JS Solution](151-reverseWordsInString.js)
 [283 - Move Zeroes](https://leetcode.com/problems/move-zeroes/) -> [JS Solution](283-moveZeroes.js)
 [354 - Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) -> [JS Solution](354-reverseVowelsOfAString.js)
 [392 - Is Substring](https://leetcode.com/problems/is-subsequence/description/) -> [JS Solution](392-isSubstring.js)
