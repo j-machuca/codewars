@@ -2,7 +2,7 @@
  * @param {number[]} arr
  * @return {boolean}
  */
-var uniqueOccurrences = function (arr) {
+export var uniqueOccurrences = function (arr) {
   // use a map to store the values and occurrences
   let nmap = new Map();
   // use a set to see if we've seen that occurrence

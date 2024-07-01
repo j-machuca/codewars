@@ -1,0 +1,14 @@
+{
+  "name": "leetcode-checker",
+  "version": "1.0.0",
+  "description": "[1 - Two sum](https://leetcode.com/problems/two-sum/description/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}
