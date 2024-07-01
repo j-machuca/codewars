@@ -35,6 +35,10 @@
 
 - [JavaScript Solution](933.numbersOfRecentCall.js)
 
+[1207 - Unique Number of Occurences](https://leetcode.com/problems/unique-number-of-occurrences/)
+
+- [JavaScript Solution](1207-uniqueNumberofOccurrences.js)
+
 [1431 - Kids With The Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
 - [JavaScript Solution](1431-kidsWiththeGreatestNumberofCandies.js)
