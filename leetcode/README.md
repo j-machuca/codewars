@@ -56,11 +56,18 @@
 [11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 
 - [JavaScript Solution](11-containerWithMostWater.js)
+- [Python Solution](11.py)
 
 [20 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 - [JavaScript Solution](20-validParentheses.js)
+- [Python Solution](20.py)
 
 [217 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
 - [JavaScript Solution](217-containsDuplicate.js)
+
+[349 - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+
+- [JS Solution](349.js)
+- [Python Solution](349.py)
