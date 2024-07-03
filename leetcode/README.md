@@ -51,6 +51,11 @@
 
 - [JavaScript Solution](1768-mergeStringsAlternatively.js)
 
+[2215.Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+
+- [JavaScript Solution](2215.js)
+- [Python Solution](2215.py)
+
 # Random Problems
 
 [11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
