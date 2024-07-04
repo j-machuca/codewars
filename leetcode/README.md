@@ -31,6 +31,10 @@
 
 - [JavaScript Solution](605.canPlaceFlowers.js)
 
+[643 - Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+
+- [JS Solution](643.js)
+
 [933 - Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 
 - [JavaScript Solution](933.numbersOfRecentCall.js)
@@ -76,3 +80,7 @@
 
 - [JS Solution](349.js)
 - [Python Solution](349.py)
+
+[2418 - Sort The People](https://leetcode.com/problems/sort-the-people/description/)
+
+- [JS Solution](2418.js)
