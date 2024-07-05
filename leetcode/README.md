@@ -72,6 +72,10 @@
 - [JavaScript Solution](20-validParentheses.js)
 - [Python Solution](20.py)
 
+[49 - Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+
+- [JavaScript Solution](49.js)
+
 [217 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
 - [JavaScript Solution](217-containsDuplicate.js)
