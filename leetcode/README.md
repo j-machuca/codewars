@@ -5,19 +5,48 @@
 - [JavaScript Solution](1-twoSum.js)
 - [Python Solution](1-twoSum.py)
 
-[242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+[11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 
-- [JavaScript Solution](242-validAnagram.js)
+- [JavaScript Solution](11-containerWithMostWater.js)
+- [Python Solution](11.py)
 
-# Leetcode 75
+[20 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+- [JavaScript Solution](20-validParentheses.js)
+- [Python Solution](20.py)
+
+[49 - Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+
+- [JavaScript Solution](49.js)
+
+[121 - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+- [JavaScript Solution](121.js)
 
 [151 - Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 
 - [JavaScript Solution](151-reverseWordsInString.js)
 
+[217 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+
+- [JavaScript Solution](217-containsDuplicate.js)
+
+[242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+- [JavaScript Solution](242-validAnagram.js)
+
 [283 - Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 - [JavaScript Solution](283-moveZeroes.js)
+
+[347 - Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+
+- [JavaScript Solution](347.js)
+
+[349 - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+
+- [JS Solution](349.js)
+- [Python Solution](349.py)
 
 [354 - Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 
@@ -59,31 +88,6 @@
 
 - [JavaScript Solution](2215.js)
 - [Python Solution](2215.py)
-
-# Random Problems
-
-[11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
-
-- [JavaScript Solution](11-containerWithMostWater.js)
-- [Python Solution](11.py)
-
-[20 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-
-- [JavaScript Solution](20-validParentheses.js)
-- [Python Solution](20.py)
-
-[49 - Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
-
-- [JavaScript Solution](49.js)
-
-[217 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
-
-- [JavaScript Solution](217-containsDuplicate.js)
-
-[349 - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-
-- [JS Solution](349.js)
-- [Python Solution](349.py)
 
 [2418 - Sort The People](https://leetcode.com/problems/sort-the-people/description/)
 
