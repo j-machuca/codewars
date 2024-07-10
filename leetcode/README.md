@@ -89,6 +89,10 @@
 - [JavaScript Solution](2215.js)
 - [Python Solution](2215.py)
 
+[2367 - Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/)
+
+- [JavaScript Solution](2367.js)
+
 [2418 - Sort The People](https://leetcode.com/problems/sort-the-people/description/)
 
 - [JS Solution](2418.js)
