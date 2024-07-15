@@ -95,4 +95,8 @@
 
 [2418 - Sort The People](https://leetcode.com/problems/sort-the-people/description/)
 
-- [JS Solution](2418.js)
+- [JavaScript Solution](2418.js)
+
+[3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/)
+
+- [JavaScript Solution](3005.js)
