@@ -71,6 +71,3 @@ var findIntersectionValues = function (nums1, nums2) {
 
   return result;
 };
-
-// findIntersectionValues([2, 3, 2], [1, 2]);
-findIntersectionValues([4, 3, 2, 3, 1], [2, 2, 5, 2, 3, 6]);
