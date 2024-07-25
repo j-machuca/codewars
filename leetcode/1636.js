@@ -26,11 +26,6 @@
 //     1 <= nums.length <= 100
 //     -100 <= nums[i] <= 100
 
-let arrOfNums = [
-  [pos, occurence],
-  [pos, occurence],
-];
-
 /**
  * @param {number[]} nums
  * @return {number[]}
@@ -66,13 +61,18 @@ var frequencySort = function (nums) {
   // create a map to store the count of each number
   let numMap = new Map();
 
+  let numsSet = new Set(nums);
+
+  if (numsSet.size === 1) {
+    return nums;
+  }
+
   // for every number in the nums array
   for (let num of nums) {
     // set the key to either the increment of existing value or 1 if the value doesn't exist
     numMap.set(num, numMap.get(num) + 1 || 1);
   }
 
-  console.log(numMap);
   let bucket = bucketSort(numMap, nums.length);
 
   let result = [];
@@ -95,3 +95,18 @@ var frequencySort = function (nums) {
 // frequencySort([1, 1, 2, 2, 2, 3]);
 // frequencySort([2, 3, 1, 3, 2]);
 // frequencySort([-1, 1, -6, 4, 5, -6, 1, 4, 1]); // [5,-1,4,4,-6,-6,1,1,1]
+
+var frequencySort = function (nums) {
+  const map = new Map();
+  for (let n of nums) {
+    map.set(n, (map.get(n) || 0) + 1);
+  }
+
+  return nums.mergeSort((a, b) => {
+    if (map.get(a) === map.get(b)) {
+      return b - a;
+    } else {
+      return map.get(a) - map.get(b);
+    }
+  });
+};
