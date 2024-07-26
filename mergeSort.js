@@ -175,7 +175,7 @@ let arr = [
 
 // let arr = [1, 4, 3, 2, 5];
 
-console.log(mergeSort(arr, "asc"));
+console.log(mergeSort(arr));
 console.log(mergeSort(arr, "des"));
 
 // let WTFisThis = Math.floor(arr.length / 2);
