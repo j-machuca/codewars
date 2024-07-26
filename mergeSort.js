@@ -177,10 +177,3 @@ let arr = [
 
 console.log(mergeSort(arr));
 console.log(mergeSort(arr, "des"));
-
-// let WTFisThis = Math.floor(arr.length / 2);
-
-// let leftArr = arr.slice(0, WTFisThis);
-// let rightArr = arr.slice(WTFisThis);
-
-// console.log({ WTFisThis, leftArr, rightArr });
